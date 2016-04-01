@@ -4,9 +4,9 @@ package net.wessendorf.j2me;
 import javax.microedition.lcdui.*;
 import javax.microedition.midlet.*;
 
-import org.ksoap2.*;
-import org.ksoap2.serialization.*;
-import org.ksoap2.transport.*;
+import org.ksoap2x.*;
+import org.ksoap2x.serialization.*;
+import org.ksoap2x.transport.*;
 
 
 
